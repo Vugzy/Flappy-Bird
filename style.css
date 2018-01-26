@@ -1,0 +1,20 @@
+body {
+background: green;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 90vh;
+}
+
+section {
+width: 450px;
+height: 550px;
+background-color: pink;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#bird {
+width: 50px;
+
+}
